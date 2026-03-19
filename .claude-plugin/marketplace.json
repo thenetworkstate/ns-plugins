@@ -1,0 +1,22 @@
+{
+  "name": "ns-plugins",
+  "owner": {
+    "name": "The Network State",
+    "url": "https://github.com/thenetworkstate"
+  },
+  "metadata": {
+    "description": "Official plugins for The Network State ecosystem",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "ns-design-system",
+      "source": "ns-design-system",
+      "description": "Apply NS design system guidelines when creating or reviewing UI components. Use when building new UI features, styling components, or reviewing frontend code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "The Network State"
+      }
+    }
+  ]
+}

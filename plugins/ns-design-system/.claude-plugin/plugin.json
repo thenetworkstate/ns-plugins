@@ -1,0 +1,8 @@
+{
+  "name": "ns-design-system",
+  "description": "Apply NS design system guidelines when creating or reviewing UI components.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Network State"
+  }
+}
