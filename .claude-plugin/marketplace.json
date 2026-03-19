@@ -17,6 +17,15 @@
       "author": {
         "name": "The Network State"
       }
+    },
+    {
+      "name": "ns-internal-dashboard",
+      "source": "ns-internal-dashboard",
+      "description": "Conventions, patterns, and gotchas for the NS admin dashboard. Use when working on admin tables, analytics charts, filters, impersonation, or any feature under /admin routes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "The Network State"
+      }
     }
   ]
 }
