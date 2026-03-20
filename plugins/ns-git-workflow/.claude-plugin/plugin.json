@@ -1,0 +1,8 @@
+{
+  "name": "ns-git-workflow",
+  "description": "Git workflow conventions for the NS monorepo: commits, branching, pre-commit hooks, merge conflicts, and CI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Network State"
+  }
+}

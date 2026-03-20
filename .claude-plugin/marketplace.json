@@ -26,6 +26,15 @@
       "author": {
         "name": "The Network State"
       }
+    },
+    {
+      "name": "ns-git-workflow",
+      "source": "ns-git-workflow",
+      "description": "Git workflow conventions for the NS monorepo: commits, branching, pre-commit hooks, merge conflicts, and CI. Use when committing, pushing, creating PRs, resolving merge conflicts, fixing hook failures, or managing migrations and lock files.",
+      "version": "1.0.0",
+      "author": {
+        "name": "The Network State"
+      }
     }
   ]
 }
